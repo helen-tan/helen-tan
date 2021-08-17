@@ -1,7 +1,7 @@
 ### Hi there, I'm Helen 👋
 
 - 🌱 I'm currently learning Java and ReactJS, and looking to gain new knowledge on frontend technologies
-- ⚡ Fun fact: Avid Genshin Impact gamer
+- ⚡ Fun fact: Avid Genshin Impact player
 - Hoping to display any new projects here on GitHub
 
 ### Connect with me:
