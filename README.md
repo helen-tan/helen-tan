@@ -5,8 +5,13 @@
 - Hoping to display any new projects here on GitHub
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/helen-tan-mz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Icon" width="22px" /></a>
-<br />
+
+<a href="https://www.linkedin.com/in/helen-tan-mz/" target="blank">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Icon" width="22px" />
+</a>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=helen-tan.visitor-badge)
+
 
 ### Languages and Tools:
 
