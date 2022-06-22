@@ -20,7 +20,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Ruby" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" />
-<img align="left" alt="Ruby on Rails" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" />
+<img align="left" alt="Ruby on Rails" width="26px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/rails.png" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
