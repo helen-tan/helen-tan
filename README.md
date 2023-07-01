@@ -1,7 +1,7 @@
 ### Hi there, I'm Helen 👋
 
-- 🌱 I'm currently learning Java and ReactJS, and looking to gain new knowledge on frontend technologies
-- ⚡ Fun fact: Avid Genshin Impact player
+- 🌱 I'm currently learning Angular, ReactJS and Spring Boot, and looking to gain new knowledge on frontend technologies
+- ⚡ Fun fact: Avid Genshin Impact & Honkai Star Rail player
 - 🤗 Hoping to be in a place with a good mentor in software engineering
 
 Learn more about me at [my personal website](https://helen-tan.github.io/portfolio-site/).
