@@ -1,8 +1,8 @@
 ### Hi there, I'm Helen 👋
 
-- 🌱 I'm currently learning Angular, ReactJS and Spring Boot, and looking to gain new knowledge on frontend technologies
-- ⚡ Fun fact: Avid Genshin Impact & Honkai Star Rail player
-- 🤗 Hoping to be in a place with a good mentor in software engineering
+- 🌱 I now code mainly using Angular with TypeScript for the frontend with Java Spring Boot for backend. Am interested in learning best code practices, new ways of efficiently debugging, implications of system architecture decisions and deployment practices.
+- ⚡ Fun fact: Avid Genshin Impact, Honkai Star Rail, and Zenless Zone Zero player
+  
 
 Learn more about me at [my personal website](https://helen-tan.github.io/portfolio-site/).
 
@@ -11,9 +11,6 @@ Learn more about me at [my personal website](https://helen-tan.github.io/portfol
 <a href="https://www.linkedin.com/in/helen-tan-mz/" target="blank">
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Icon" width="22px" />
 </a>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=helen-tan.visitor-badge)
-
 
 ### Languages and Tools:
 
